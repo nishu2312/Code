@@ -24,7 +24,7 @@
 
 	<!-- to prevent access before login and to prevent going back after logout-->
 	
- <h1> <b>WELCOME</b> </h1>
+ <h1 style="text-allign:center; background-color: grey ; border: 2px solid black"> <b>Hello World</b> </h1>
 
 
 </body>
