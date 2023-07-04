@@ -24,9 +24,9 @@
 
 	<!-- to prevent access before login and to prevent going back after logout-->
 	
+ <h1> <b>WELCOME</b> </h1>
 
-
-	<div class="container-fluid">
+<!--	<div class="container-fluid">
 		<div class="fixed-header">
 			<div id="title" style="text-align: right;">
 
@@ -84,7 +84,7 @@
 
 
 				</tbody>
-			</table>
+			</table> -->
 </body>
 
 </html>
