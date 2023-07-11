@@ -5,10 +5,10 @@
 <hibernate-configuration>
     <session-factory>
         <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-        <property name="hibernate.connection.url">jdbc:mysql://database-1.clqqh3n1hqqe.us-east-1.rds.amazonaws.com:3306/hibernate</property>
+        <property name="hibernate.connection.url">jdbc:mysql://database-mysql-1.mysql.database.azure.com:3306/hibernate</property>
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
-         <property name="hibernate.connection.password">9013216904</property>
-          <property name="hibernate.connection.username">admin</property>
+         <property name="hibernate.connection.password">8826574303Ps</property>
+          <property name="hibernate.connection.username">pratham</property>
            <property name="hbm2ddl.auto">validate</property>
     </session-factory>
 </hibernate-configuration>
