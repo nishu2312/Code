@@ -21,21 +21,21 @@
                 <div id="login-column" class="col-md-6">
                     <div id="login-box" class="col-md-12">
                        <form action="login" method="post" >
-                            <h3 class="text-center text-warning mt-2">Sign In</h3>
+                            <h3 class="text-center text-info mt-2">Sign In</h3>
                             <div class="mb-3 row mt-5">
-								<label for="username" class="text-warning col-4">Name:</label>
+								<label for="username" class="text-info col-4">Name:</label>
 								<input type="text" name="uname" id="uname"
 									class="form-control col-6">
 							</div>
                             <div class="mb-3 row">
-								<label for="password" class="text-warning col-4">User Password:</label>
+								<label for="password" class="text-info col-4">User Password:</label>
 								<input type="password" name="pass" id="pass"
 									class="form-control col-6">
 
                            
                             
                             <div class="form-group col-12 mt-4 text-center">
-                               <input type="submit" class="btn btn-warning" value="Login">
+                               <input type="submit" class="btn btn-info" value="Login">
                             </div>
                                  
                             
